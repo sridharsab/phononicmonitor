@@ -1,0 +1,5 @@
+{
+  "name": "Phononic Audit DSS",
+  "description": "Decision Support Dashboard for city engineers to monitor bridge structural integrity.",
+  "requestFramePermissions": []
+}
